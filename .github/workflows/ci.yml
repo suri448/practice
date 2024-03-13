@@ -1,6 +1,6 @@
 # This workflow will build a java project with maven
 
-name: Java CI with Maven
+name: Java CI with Mavenn
 
 on:
  push:
